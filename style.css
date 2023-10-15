@@ -18,7 +18,7 @@ nav {
     padding: 15px;
     margin: 10px;
     box-shadow: 7px 6px 3px 3px black;
-    display: flexbox;
+    display: inline;
 }
 
 nav > a {
@@ -54,12 +54,7 @@ header > p {
 
 }
 
-#intro > p {
-    display: block;
+p {
     text-align: justify;
     width: auto;
 }
-
-/* #intro:hover {
-    display:inline-block;
-} */
